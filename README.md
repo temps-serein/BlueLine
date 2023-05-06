@@ -133,3 +133,11 @@ else:
 ```
 
 ​    （5）将图片重新合成视频，同摄像头版本，不再赘述.
+
+
+
+参考：
+
+[抖音“蓝线挑战”特效是怎么实现的-技术圈 (proginn.com)](https://jishuin.proginn.com/p/763bfbd67c82)
+
+https://github.com/githubhaohao/OpenGLCamera2
